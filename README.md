@@ -4,7 +4,7 @@
 
 
 - 🌱 I’m a CS Student
-- 🤔 I’m Currently Working on Web Applications on React Framework
+- 🤔 I’m Currently Working on Web Applications on ReactJS
 - 💬 Ask me about SPA and tech related stuff
 - 📫 How to reach me: [Twitter - @arunrajorya](https://twitter.com/arunrajorya) 
 - 😄 Pronouns: He/His
@@ -66,6 +66,10 @@ src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo
 </a>
 <a href="https://github.com/arunrajorya">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=arunrajorya&show_icons=true&hide=prs&theme=dark&line_height=27%22%20alt=%22Arun%27s%20github%20stats"/>
+</a>
+  <a href="https://github.com/arunrajorya/Dell-E7440-Hackintosh-EFI">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arunrajorya&repo=Campus&theme=radical" />
+
 </a>
 
 
