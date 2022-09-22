@@ -33,9 +33,9 @@
 
 
 
-[![Twitter: knishant362](https://img.shields.io/twitter/follow/knishant362?style=social)](https://twitter.com/knishant362)
-[![Linkedin: knishant362](https://img.shields.io/badge/-knishant362-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/knishant362/)](https://www.linkedin.com/in/knishant362/)
-[![GitHub: knishant362](https://img.shields.io/github/followers/knishant362?label=follow&style=social)](https://github.com/knishant362)
+[![Twitter: arunrajorya](https://img.shields.io/twitter/follow/knishant362?style=social)](https://twitter.com/arunrajorya)
+[![Linkedin: arunrajorya](https://img.shields.io/badge/-knishant362-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arunrajorya/)](https://www.linkedin.com/in/arunrajorya/)
+[![GitHub: arunrajorya](https://img.shields.io/github/followers/knishant362?label=follow&style=social)](https://github.com/arunrajorya)
 
 
 ---
