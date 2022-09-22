@@ -61,10 +61,10 @@
 src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>  <img alt="Adobe XD" src="https://img.shields.io/badge/adobe%20xd%20-%23FF26BE.svg?&style=for-the-badge&logo=adobe%20xd&logoColor=white"/>  <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>  <img alt="Web" src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>
 
 
-<a href="https://github.com/knishant362">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=knishant362&theme=radical&hide_langs_below=1" />
+<a href="https://github.comarunrajorya">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunrajorya&theme=radical&hide_langs_below=1" />
 </a>
-<a href="https://github.com/knishant362">
+<a href="https://github.com/arunrajorya">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=knishant362&show_icons=true&hide=prs&theme=dark&line_height=27%22%20alt=%22Nishant%27s%20github%20stats"/>
 </a>
 <a href="https://github.com/knishant362/Campus">
