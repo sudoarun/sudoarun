@@ -6,9 +6,6 @@
 - 💬 Ask me about SPA and tech related stuff
 - 📫 How to reach me: [Twitter - @arunrajorya](https://twitter.com/arunrajorya) 
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: ...
-- <br />
-- <br />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=knishant362&label=Views&color=blue&style=plastic" alt="knishant362" /> </p>
 
