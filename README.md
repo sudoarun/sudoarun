@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=karunrajorya&label=Views&color=blue&style=plastic" alt="arunrajorya" /> </p>
+
 
 - 🌱 I’m a BCA Student
 - 🤔 I’m Currently Working on Web Applications
@@ -7,7 +9,6 @@
 - 📫 How to reach me: [Twitter - @arunrajorya](https://twitter.com/arunrajorya) 
 - 😄 Pronouns: He/His
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=karunrajorya&label=Views&color=blue&style=plastic" alt="arunrajorya" /> </p>
 
 <a href="https://twitter.com/arunrajorya">
   <img align="left" alt="Nishant's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
