@@ -42,7 +42,7 @@
 ---
 
 
-<img align="right" alt="GIF" height="170px" src="https://c.tenor.com/tV52z2xQXcAAAAAC/black-clover-anime.gif" />
+<img align="right" alt="GIF" height="170px" src="https://c.tenor.com/mc3OyxhLazUAAAAC/doggo-doge.gif" />
 
 ### Spotify Playing 🎧
 
