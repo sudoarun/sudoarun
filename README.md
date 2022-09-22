@@ -6,39 +6,37 @@
 - 🌱 I’m a BCA Student
 - 🤔 I’m Currently Working on Web Applications
 - 💬 Ask me about SPA and tech related stuff
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 📫 How to reach me: [Twitter - @arunrajorya](https://twitter.com/arunrajorya) 
+- 😄 Pronouns: He/His
 - ⚡ Fun fact: ...
+- <br />
+- <br />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=knishant362&label=Views&color=blue&style=plastic" alt="knishant362" /> </p>
 
-<a href="https://twitter.com/knishant362">
+<a href="https://twitter.com/arunrajorya">
   <img align="left" alt="Nishant's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/knishant362/">
+<a href="https://www.linkedin.com/in/arunrajorya/">
   <img align="left" alt="Nishant's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/knishant362">
+<a href="https://github.com/arunrajorya">
   <img align="left" alt="Nishant's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://t.me/knishant362">
+<a href="https://t.me/troublemaker_exe">
   <img align="left" alt="Nishant's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://www.instagram.com/_.trendster._/">
+<a href="https://www.instagram.com/ig.arun___/">
   <img align="left" alt="Nishant's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.facebook.com/knishant362/">
+<a href="https://www.facebook.com/arunrajorya/">
   <img align="left" alt="Nishant's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
 <br/>
 <br/>
 
-- 🌱 I’m a CSE Student.
-- 📫 I'm currently working on Android Projects
-- 💬 Ask me about Android Development or any tech related stuff.
-- 📫 How to reach me: [Twitter - @knishant362](https://twitter.com/knishant362) 
-- 😄 Pronouns: He/His
+
 
 [![Twitter: knishant362](https://img.shields.io/twitter/follow/knishant362?style=social)](https://twitter.com/knishant362)
 [![Linkedin: knishant362](https://img.shields.io/badge/-knishant362-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/knishant362/)](https://www.linkedin.com/in/knishant362/)
