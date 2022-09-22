@@ -68,7 +68,7 @@ src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=arunrajorya&show_icons=true&hide=prs&theme=dark&line_height=27%22%20alt=%22Arun%27s%20github%20stats"/>
 </a>
   <a href="https://github.com/arunrajorya/Dell-E7440-Hackintosh-EFI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arunrajorya&repo=Campus&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arunrajorya&repo=Dell-E7440-Hackintosh-EFI&theme=radical" />
 
 </a>
 
