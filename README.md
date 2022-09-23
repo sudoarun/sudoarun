@@ -9,7 +9,7 @@
 - 📫 How to reach me: [Twitter - @arunrajorya](https://twitter.com/arunrajorya) 
 - 😄 Pronouns: He/His
 -  <b>Contact Me At</b>:
-  <b><a href="mailto:arunrajorya@gmail.com">Email: </>arunrajorya@gmail.com</a><br/>
+  <b><a href="mailto:arunrajorya@gmail.com"></a><br/>
 
 
 <a href="https://twitter.com/arunrajorya">
