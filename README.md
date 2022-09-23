@@ -71,11 +71,10 @@
 </a>
   <a href="https://github.com/arunrajorya/Dell-E7440-Hackintosh-EFI">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arunrajorya&repo=Dell-E7440-Hackintosh-EFI&theme=radical" />
-
 </a>
+
 <a href="https://github.com/arunrajorya/Unlock-react">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arunrajorya&repo=Unlock-react&theme=radical" />
-
 </a>
   </div>
 
