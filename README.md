@@ -74,7 +74,7 @@
 
 </a>
 <a href="https://github.com/arunrajorya/Unlock-react">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arunrajorya&repo=Unlock-react&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arunrajorya&repo=Unlock-reac&theme=radical" />
 
 </a>
   </div>
