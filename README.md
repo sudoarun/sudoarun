@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=karunrajorya&label=Views&color=blue&style=plastic" alt="arunrajorya" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arunrajorya&label=Views&color=blue&style=plastic" alt="arunrajorya" /> </p>
 
 
 - 🌱 I’m a BCA Student
