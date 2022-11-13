@@ -8,7 +8,7 @@
 - 💬 Ask me about SPA and tech related stuff
 - 📫 How to reach me: [Twitter - @arunrajorya](https://twitter.com/arunrajorya) 
 - 😄 Pronouns: He/His
-- <b>Personal PortFolio: <a href="https://sudoarun.github.io/Portfolio/" target="_blank">sudoarun.github.io/Portfolio</a></b>
+- <b>Personal PortFolio: <a href="https://sudoarun.pages.dev" target="_blank">sudoarun.pages.dev</a></b>
 -  <b>Contact Me At</b>:
   <b><a href="mailto:arunrajorya@gmail.com"> arunrajorya@gmail.com</a><br/>
 
