@@ -64,22 +64,7 @@
 
   <br />
   <br />
-  <div align="center">
-
-<a href="https://github.comarunrajorya">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunrajorya&theme=radical&hide_langs_below=1" />
-</a>
-<a href="https://github.com/arunrajorya">
- <img align="center"  src="https://github-readme-stats.vercel.app/api?username=arunrajorya&show_icons=true&hide=prs&theme=dark&line_height=27%22%20alt=%22Arun%27s%20github%20stats"/>
-</a>
-  <a href="https://github.com/arunrajorya/Dell-E7440-Hackintosh-EFI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arunrajorya&repo=Dell-E7440-Hackintosh-EFI&theme=radical" />
-</a>
-
-<a href="https://github.com/arunrajorya/Unlock-react">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arunrajorya&repo=Unlock-react&theme=radical" />
-</a>
-  </div>
+  
 
 
 <div align="center">
