@@ -13,7 +13,7 @@
   <b><a href="mailto:arunrajorya@gmail.com"> arunrajorya@gmail.com</a><br/>
 
 
-<a href="https://twitter.com/arunrajorya">
+<a href="https://twitter.com/sudoarun">
   <img align="left" alt="Arun's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/arunrajorya/">
@@ -34,9 +34,9 @@
 
 
 
-[![Twitter: arunrajorya](https://img.shields.io/twitter/follow/arunrajorya?style=social)](https://twitter.com/arunrajorya)
+[![Twitter: arunrajorya](https://img.shields.io/twitter/follow/sudoarun?style=social)](https://twitter.com/sudoarun)
 [![Linkedin: arunrajorya](https://img.shields.io/badge/-arunrajorya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arunrajorya/)](https://www.linkedin.com/in/arunrajorya/)
-[![GitHub: arunrajorya](https://img.shields.io/github/followers/arunrajorya?label=follow&style=social)](https://github.com/arunrajorya)
+[![GitHub: arunrajorya](https://img.shields.io/github/followers/sudoarun?label=follow&style=social)](https://github.com/sudoarun)
 
 
 ---
