@@ -27,7 +27,7 @@
   <img align="left" alt="Arun's Instagram" width="22px" src="https://sudoarun.droped.workers.dev/2:/files/github/instagram.png" />
 </a>
 <a href="https://www.facebook.com/sudoarun/">
-  <img align="left" alt="Arun's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="Arun's Facebook" width="22px" src="https://sudoarun.droped.workers.dev/2:/files/github/facebook.png" />
 </a>
 
 <br/>
