@@ -6,7 +6,8 @@
 - 🌱 I’m a BCA Student
 - 🤔 I’m Currently Working on Web Applications on ReactJS
 - 💬 Ask me about SPA and tech related stuff
-- 📫 How to reach me: [Twitter - @sudoarun](https://twitter.com/sudoarun) 
+- 📫 Connect With me on Twitter: [sudoarun](https://twitter.com/sudoarun) 
+- 🐱‍💻 Contact Me on Telegram: [sudoarun](https://telegram.me/sudoarun) 
 - 😄 Pronouns: He/His
 - <b>Personal PortFolio: <a href="https://sudoarun.pages.dev" target="_blank">sudoarun.pages.dev</a></b>
 -  <b>Contact Me At</b>:
@@ -16,13 +17,13 @@
 <a href="https://twitter.com/sudoarun">
   <img align="left" alt="Arun's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/arunrajorya/">
+<a href="https://www.linkedin.com/in/sudoarun/">
   <img align="left" alt="Arun's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://t.me/troublemaker_exe">
+<a href="https://telegram.me/sudoarun">
   <img align="left" alt="Arun's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://www.instagram.com/ig.arun___/">
+<a href="https://www.instagram.com/hr30.arun/">
   <img align="left" alt="Arun's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/sudoarun/">
@@ -34,9 +35,9 @@
 
 
 
-[![Twitter: arunrajorya](https://img.shields.io/twitter/follow/sudoarun?style=social)](https://twitter.com/sudoarun)
-[![Linkedin: arunrajorya](https://img.shields.io/badge/-arunrajorya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arunrajorya/)](https://www.linkedin.com/in/arunrajorya/)
-[![GitHub: arunrajorya](https://img.shields.io/github/followers/sudoarun?label=follow&style=social)](https://github.com/sudoarun)
+[![Twitter: sudoarun](https://img.shields.io/twitter/follow/sudoarun?style=social)](https://twitter.com/sudoarun)
+[![Linkedin: sudoarun](https://img.shields.io/badge/-sudoarun-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sudoarun/)](https://www.linkedin.com/in/sudoarun/)
+[![GitHub: sudoarun](https://img.shields.io/github/followers/sudoarun?label=follow&style=social)](https://github.com/sudoarun)
 
 
 ---
