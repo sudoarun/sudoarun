@@ -15,16 +15,16 @@
 
 
 <a href="https://twitter.com/sudoarun">
-  <img align="left" alt="Arun's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Arun's Twitter" width="22px" src="https://sudoarun.droped.workers.dev/2:/files/github/twitter.png" />
 </a>
 <a href="https://www.linkedin.com/in/sudoarun/">
-  <img align="left" alt="Arun's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Arun's Linkdein" width="22px" src="https://sudoarun.droped.workers.dev/2:/files/github/linkedin.png" />
 </a>
 <a href="https://telegram.me/sudoarun">
-  <img align="left" alt="Arun's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="left" alt="Arun's Telegram" width="22px" src="https://sudoarun.droped.workers.dev/2:/files/github/telegram.png" />
 </a>
 <a href="https://www.instagram.com/hr30.arun/">
-  <img align="left" alt="Arun's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Arun's Instagram" width="22px" src="https://sudoarun.droped.workers.dev/2:/files/github/instagram.png" />
 </a>
 <a href="https://www.facebook.com/sudoarun/">
   <img align="left" alt="Arun's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
