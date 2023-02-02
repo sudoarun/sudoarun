@@ -15,19 +15,19 @@
 
 
 <a href="https://twitter.com/sudoarun">
-  <img align="left" alt="Arun's Twitter" width="22px" src="https://sudoarun.droped.workers.dev/2:/files/github/twitter.png" />
+  <img align="left" width="22px" src="https://sudoarun.droped.workers.dev/2:/files/github/twitter.png" />
 </a>
 <a href="https://www.linkedin.com/in/sudoarun/">
-  <img align="left" alt="Arun's Linkdein" width="22px" src="https://sudoarun.droped.workers.dev/2:/files/github/linkedin.png" />
+  <img align="left" width="22px" src="https://sudoarun.droped.workers.dev/2:/files/github/linkedin.png" />
 </a>
 <a href="https://telegram.me/sudoarun">
-  <img align="left" alt="Arun's Telegram" width="22px" src="https://sudoarun.droped.workers.dev/2:/files/github/telegram.png" />
+  <img align="left" width="22px" src="https://sudoarun.droped.workers.dev/2:/files/github/telegram.png" />
 </a>
 <a href="https://www.instagram.com/hr30.arun/">
-  <img align="left" alt="Arun's Instagram" width="22px" src="https://sudoarun.droped.workers.dev/2:/files/github/instagram.png" />
+  <img align="left" width="22px" src="https://sudoarun.droped.workers.dev/2:/files/github/instagram.png" />
 </a>
 <a href="https://www.facebook.com/sudoarun/">
-  <img align="left" alt="Arun's Facebook" width="22px" src="https://sudoarun.droped.workers.dev/2:/files/github/facebook.png" />
+  <img align="left" width="22px" src="https://sudoarun.droped.workers.dev/2:/files/github/facebook.png" />
 </a>
 
 <br/>
