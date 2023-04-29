@@ -11,7 +11,7 @@
 - 😄 Pronouns: He/His
 - <b>Personal PortFolio: <a href="https://sudoarun.pages.dev" target="_blank">sudoarun.pages.dev</a></b>
 -  <b>Contact Me At</b>:
-  <b><a href="mailto:arunrajorya@gmail.com"> arunrajorya@gmail.com</a><br/>
+  <b><a href="mailto:arunrajorya@gmail.com"> sudoarun.js@gmail.com</a><br/>
 
 
 <a href="https://twitter.com/sudoarun">
