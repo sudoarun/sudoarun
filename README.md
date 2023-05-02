@@ -11,23 +11,23 @@
 - 😄 Pronouns: He/His
 - <b>Personal PortFolio: <a href="https://sudoarun.pages.dev" target="_blank">sudoarun.pages.dev</a></b>
 -  <b>Contact Me At</b>:
-  <b><a href="mailto:arunrajorya@gmail.com"> sudoarun.js@gmail.com</a><br/>
+  <b><a href="mailto:sudoarun.js@gmail.com"> sudoarun.js@gmail.com</a><br/>
 
 
 <a href="https://twitter.com/sudoarun">
-  <img align="left" width="22px" src="https://sudoarun.droped.workers.dev/2:/files/github/twitter.png" />
+  <img align="left" width="22px" src="https://sudoarun.droped.workers.dev/1:/files/github/twitter.png" />
 </a>
 <a href="https://www.linkedin.com/in/sudoarun/">
-  <img align="left" width="22px" src="https://sudoarun.droped.workers.dev/2:/files/github/linkedin.png" />
+  <img align="left" width="22px" src="https://sudoarun.droped.workers.dev/1:/files/github/linkedin.png" />
 </a>
 <a href="https://telegram.me/sudoarun">
-  <img align="left" width="22px" src="https://sudoarun.droped.workers.dev/2:/files/github/telegram.png" />
+  <img align="left" width="22px" src="https://sudoarun.droped.workers.dev/1:/files/github/telegram.png" />
 </a>
 <a href="https://www.instagram.com/hr30.arun/">
-  <img align="left" width="22px" src="https://sudoarun.droped.workers.dev/2:/files/github/instagram.png" />
+  <img align="left" width="22px" src="https://sudoarun.droped.workers.dev/1:/files/github/instagram.png" />
 </a>
 <a href="https://www.facebook.com/sudoarun/">
-  <img align="left" width="22px" src="https://sudoarun.droped.workers.dev/2:/files/github/facebook.png" />
+  <img align="left" width="22px" src="https://sudoarun.droped.workers.dev/1:/files/github/facebook.png" />
 </a>
 
 <br/>
