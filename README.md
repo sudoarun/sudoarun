@@ -6,7 +6,6 @@
 - 🌱 I’m a BCA Student
 - 🤔 I’m Currently Working on Web Applications on ReactJS
 - 💬 Ask me about SPA and tech related stuff
-- 📫 Connect With me on Twitter: [sudoarun](https://twitter.com/sudoarun) 
 - 🐱‍💻 Contact Me on Telegram: [sudoarun](https://telegram.me/sudoarun) 
 - 😄 Pronouns: He/His
 - <b>Personal PortFolio: <a href="https://sudoarun.pages.dev" target="_blank">sudoarun.pages.dev</a></b>
