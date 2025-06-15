@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arunrajorya&label=Views&color=blue&style=plastic" alt="arunrajorya" /> </p>
 
 
-- 🌱 I’m a BCA Student
+- 🌱 I’m a Bachelor Student
 - 🤔 I’m Currently Working on Web Applications on ReactJS
 - 💬 Ask me about SPA and tech related stuff
 - 🐱‍💻 Contact Me on Telegram: [sudoarun](https://telegram.me/sudoarun) 
