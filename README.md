@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sudoarun&label=Views&color=blue&style=plastic" alt="sudoarun" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=helloarunthakur&label=Views&color=blue&style=plastic" alt="helloarunthakur" /> </p>
 
 
 - 🌱 I’m a Bachelor Student
