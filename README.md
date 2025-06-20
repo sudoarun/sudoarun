@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arunrajorya&label=Views&color=blue&style=plastic" alt="arunrajorya" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=helloarunthakur&label=Views&color=blue&style=plastic" alt="helloarunthakur" /> </p>
 
 
 - 🌱 I’m a Bachelor Student
 - 🤔 I’m Currently Working on Web Applications on ReactJS
 - 💬 Ask me about SPA and tech related stuff
-- 🐱‍💻 Contact Me on Telegram: [sudoarun](https://telegram.me/helloarunthakur) 
+- 🐱‍💻 Contact Me on Telegram: [helloarunthakur](https://telegram.me/helloarunthakur) 
 - 😄 Pronouns: He/His
 - <b>Personal PortFolio: <a href="https://helloarunthakur.netlify.app" target="_blank">helloarunthakur.netlify.app</a></b>
 -  <b>Contact Me At</b>:
