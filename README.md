@@ -6,26 +6,24 @@
 - 🌱 I’m a Bachelor Student
 - 🤔 I’m Currently Working on Web Applications on ReactJS
 - 💬 Ask me about SPA and tech related stuff
-- 🐱‍💻 Contact Me on Telegram: [sudoarun](https://telegram.me/sudoarun) 
+- 🐱‍💻 Contact Me on Telegram: [sudoarun](https://telegram.me/helloarunthakur) 
 - 😄 Pronouns: He/His
-- <b>Personal PortFolio: <a href="https://sudoarun.pages.dev" target="_blank">sudoarun.pages.dev</a></b>
+- <b>Personal PortFolio: <a href="https://helloarunthakur.netlify.app" target="_blank">helloarunthakur.netlify.app</a></b>
 -  <b>Contact Me At</b>:
-  <b><a href="mailto:sudoarun.js@gmail.com"> sudoarun.js@gmail.com</a><br/>
+  <b><a href="mailto:work.arunthakur@gmail.com"> work.arunthakur@gmail.com</a><br/>
 
 
-<a href="https://twitter.com/sudoarun">
+<a href="https://twitter.com/helloarunthakur">
   <img align="left" width="22px" src="https://sudoarun.droped.workers.dev/1:/files/github/twitter.png" />
 </a>
-<a href="https://www.linkedin.com/in/sudoarun/">
+<a href="https://www.linkedin.com/in/helloarunthakur/">
   <img align="left" width="22px" src="https://sudoarun.droped.workers.dev/1:/files/github/linkedin.png" />
 </a>
-<a href="https://telegram.me/sudoarun">
+<a href="https://telegram.me/helloarunthakur">
   <img align="left" width="22px" src="https://sudoarun.droped.workers.dev/1:/files/github/telegram.png" />
 </a>
-<a href="https://www.instagram.com/hr30.arun/">
-  <img align="left" width="22px" src="https://sudoarun.droped.workers.dev/1:/files/github/instagram.png" />
-</a>
-<a href="https://www.facebook.com/sudoarun/">
+
+<a href="https://www.facebook.com/helloarunthakur/">
   <img align="left" width="22px" src="https://sudoarun.droped.workers.dev/1:/files/github/facebook.png" />
 </a>
 
@@ -34,9 +32,9 @@
 
 
 
-[![Twitter: sudoarun](https://img.shields.io/twitter/follow/sudoarun?style=social)](https://twitter.com/sudoarun)
-[![Linkedin: sudoarun](https://img.shields.io/badge/-sudoarun-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sudoarun/)](https://www.linkedin.com/in/sudoarun/)
-[![GitHub: sudoarun](https://img.shields.io/github/followers/sudoarun?label=follow&style=social)](https://github.com/sudoarun)
+[![Twitter: helloarunthakur](https://img.shields.io/twitter/follow/helloarunthakur?style=social)](https://twitter.com/helloarunthakur)
+[![Linkedin: helloarunthakur](https://img.shields.io/badge/-sudoarun-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/helloarunthakur/)](https://www.linkedin.com/in/helloarunthakur/)
+[![GitHub: helloarunthakur](https://img.shields.io/github/followers/helloarunthakur?label=follow&style=social)](https://github.com/helloarunthakur)
 
 
 ---
